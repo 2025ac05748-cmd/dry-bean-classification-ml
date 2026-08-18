@@ -26,7 +26,7 @@ The dataset contains no missing values.
 
 ## 3. GitHub Repository Link
 
-YOUR_GITHUB_REPOSITORY_LINK
+https://github.com/2025ac05748-cmd/dry-bean-classification-ml
 
 ## 4. Models Used
 
